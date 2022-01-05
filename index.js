@@ -11,7 +11,7 @@ app.get('/api/users',async (req,res)=>{
       {user:"saleemabdullah764@gmail.com", password:"123456"},
       {user:"asad@gmail.com", password:"123456"},
       {user:"anas@gmail.com", password:"123456"},
-      {user:"saif@gmail.com", password:"123456"}
+      {user:"saif@gmail.com",  password:"123456"}
    ]
    res.send(user)
 })
